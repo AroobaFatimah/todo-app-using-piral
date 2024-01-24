@@ -69,15 +69,15 @@ I created 2 pilets:
 
 ![Screenshot from 2024-01-24 13-46-11](https://github.com/AroobaFatimah/todo-app-using-piral/assets/91956217/7f0ef111-15d6-41e5-a12e-70e57ba44c81)
 
-## My “todo-list” pilet:##
+## My “todo-list” pilet:
 
 ![Screenshot from 2024-01-24 13-56-32](https://github.com/AroobaFatimah/todo-app-using-piral/assets/91956217/fc718dd7-2458-4da6-83b9-cbc9882eaba5)
 
-## My “add-new-task” pilet:##
+## My “add-new-task” pilet:
 
 ![Screenshot from 2024-01-24 14-04-51](https://github.com/AroobaFatimah/todo-app-using-piral/assets/91956217/3b57af57-a6e0-4481-9ddc-81b226ef7e2f)
 
-## My base application shell where i integrated both pilets:##
+## My base application shell where i integrated both pilets:
 ![Screenshot from 2024-01-24 14-08-34](https://github.com/AroobaFatimah/todo-app-using-piral/assets/91956217/e08b09a8-a8d4-4df8-aef7-df395b052235)
 
 Both pilets are integrated, share data between pilets using setData and getData events
