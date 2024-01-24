@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AACA,MACI,wBAAyB,CACzB,UACF,CAEA,MAGE,4BAA6B,CAF7B,WAAY,CACZ,eAEF","sources":["webpack://pr_todolist/./src/style.css"],"sourcesContent":["\ntable {\n    border-collapse: collapse;\n    width: 100%;\n  }\n  \n  th, td {\n    padding: 8px;\n    text-align: left;\n    border-bottom: 1px solid #ddd;\n  }"],"names":[],"sourceRoot":""}
